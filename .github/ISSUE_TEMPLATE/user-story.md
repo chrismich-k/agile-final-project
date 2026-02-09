@@ -1,5 +1,5 @@
 ---
-name: User  Story
+name: User Story
 about: template for creating user stories as suggested by John Rofrano
 title: ''
 labels: ''
